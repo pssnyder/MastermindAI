@@ -1,0 +1,22 @@
+2024-07-27 21:10:17,624 - DEBUG - #### Beginning 3 Strategy Testing ####
+2024-07-27 21:10:17,624 - DEBUG - ## ## Simulation beginning for 10 games using strategy #0 ## ##
+2024-07-27 21:10:17,625 - DEBUG - Starting game 1 with strategy Random Guess Strategy
+2024-07-27 21:10:17,625 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 21:10:17,625 - DEBUG - Starting game 2 with strategy Random Guess Strategy
+2024-07-27 21:10:17,625 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 21:10:17,625 - DEBUG - Starting game 3 with strategy Random Guess Strategy
+2024-07-27 21:10:17,625 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 21:10:17,625 - DEBUG - Starting game 4 with strategy Random Guess Strategy
+2024-07-27 21:10:17,625 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 21:10:17,625 - DEBUG - Starting game 5 with strategy Random Guess Strategy
+2024-07-27 21:10:17,625 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 21:10:17,625 - DEBUG - Starting game 6 with strategy Random Guess Strategy
+2024-07-27 21:10:17,626 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 21:10:17,626 - DEBUG - Starting game 7 with strategy Random Guess Strategy
+2024-07-27 21:10:17,626 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 21:10:17,626 - DEBUG - Starting game 8 with strategy Random Guess Strategy
+2024-07-27 21:10:17,626 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 21:10:17,626 - DEBUG - Starting game 9 with strategy Random Guess Strategy
+2024-07-27 21:10:17,626 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 21:10:17,626 - DEBUG - Starting game 10 with strategy Random Guess Strategy
+2024-07-27 21:10:17,626 - DEBUG - Game 10 ended with 10 attempts
