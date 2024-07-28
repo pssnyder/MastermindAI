@@ -1,0 +1,420 @@
+2024-07-27 22:23:20,534 - DEBUG - #### Beginning 3 Strategy Testing ####
+2024-07-27 22:23:20,534 - DEBUG - ## ## Simulation beginning for 10 games using strategy #0 ## ##
+2024-07-27 22:23:20,535 - DEBUG - Starting game 1 with strategy Random Guess Strategy
+2024-07-27 22:23:20,535 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:23:20,535 - DEBUG - Starting game 2 with strategy Random Guess Strategy
+2024-07-27 22:23:20,535 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:23:20,535 - DEBUG - Starting game 3 with strategy Random Guess Strategy
+2024-07-27 22:23:20,535 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:23:20,535 - DEBUG - Starting game 4 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:23:20,536 - DEBUG - Starting game 5 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:23:20,536 - DEBUG - Starting game 6 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:23:20,536 - DEBUG - Starting game 7 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:23:20,536 - DEBUG - Starting game 8 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:23:20,536 - DEBUG - Starting game 9 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:23:20,536 - DEBUG - Starting game 10 with strategy Random Guess Strategy
+2024-07-27 22:23:20,536 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:23:20,538 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222320.csv
+2024-07-27 22:23:20,539 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222320.json
+2024-07-27 22:23:20,539 - DEBUG - ## ## Simulation ended for 10 games using strategy #Random Guess Strategy ## ##
+2024-07-27 22:23:20,539 - DEBUG - ## ## Simulation beginning for 10 games using strategy #1 ## ##
+2024-07-27 22:23:20,539 - DEBUG - Starting game 1 with strategy Feedback-Based Strategy
+2024-07-27 22:23:20,540 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:23:20,540 - DEBUG - Starting game 2 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,724 - DEBUG - #### Beginning 3 Strategy Testing ####
+2024-07-27 22:25:07,725 - DEBUG - ## ## Simulation beginning for 10 games using strategy #0 ## ##
+2024-07-27 22:25:07,725 - DEBUG - Starting game 1 with strategy Random Guess Strategy
+2024-07-27 22:25:07,726 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:25:07,726 - DEBUG - Starting game 2 with strategy Random Guess Strategy
+2024-07-27 22:25:07,726 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:25:07,726 - DEBUG - Starting game 3 with strategy Random Guess Strategy
+2024-07-27 22:25:07,726 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:25:07,726 - DEBUG - Starting game 4 with strategy Random Guess Strategy
+2024-07-27 22:25:07,726 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:25:07,726 - DEBUG - Starting game 5 with strategy Random Guess Strategy
+2024-07-27 22:25:07,727 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:25:07,727 - DEBUG - Starting game 6 with strategy Random Guess Strategy
+2024-07-27 22:25:07,727 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:25:07,727 - DEBUG - Starting game 7 with strategy Random Guess Strategy
+2024-07-27 22:25:07,727 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:25:07,727 - DEBUG - Starting game 8 with strategy Random Guess Strategy
+2024-07-27 22:25:07,727 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:25:07,727 - DEBUG - Starting game 9 with strategy Random Guess Strategy
+2024-07-27 22:25:07,727 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:25:07,727 - DEBUG - Starting game 10 with strategy Random Guess Strategy
+2024-07-27 22:25:07,727 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:25:07,934 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222507.csv
+2024-07-27 22:25:07,935 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222507.json
+2024-07-27 22:25:07,935 - DEBUG - ## ## Simulation ended for 10 games using strategy #Random Guess Strategy ## ##
+2024-07-27 22:25:07,935 - DEBUG - ## ## Simulation beginning for 10 games using strategy #1 ## ##
+2024-07-27 22:25:07,935 - DEBUG - Starting game 1 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,935 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:25:07,935 - DEBUG - Starting game 2 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,935 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 3 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 4 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 5 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 6 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 7 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 8 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 9 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:25:07,936 - DEBUG - Starting game 10 with strategy Feedback-Based Strategy
+2024-07-27 22:25:07,936 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:25:07,937 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222507.csv
+2024-07-27 22:25:07,944 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222507.json
+2024-07-27 22:25:07,944 - DEBUG - ## ## Simulation ended for 10 games using strategy #Feedback-Based Strategy ## ##
+2024-07-27 22:25:07,944 - DEBUG - ## ## Simulation beginning for 10 games using strategy #2 ## ##
+2024-07-27 22:25:07,944 - DEBUG - Starting game 1 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,944 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:25:07,944 - DEBUG - Starting game 2 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,944 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:25:07,944 - DEBUG - Starting game 3 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,944 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:25:07,944 - DEBUG - Starting game 4 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:25:07,945 - DEBUG - Starting game 5 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:25:07,945 - DEBUG - Starting game 6 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:25:07,945 - DEBUG - Starting game 7 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 7 ended with 7 attempts
+2024-07-27 22:25:07,945 - DEBUG - Starting game 8 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:25:07,945 - DEBUG - Starting game 9 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:25:07,945 - DEBUG - Starting game 10 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:25:07,945 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:25:07,946 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222507.csv
+2024-07-27 22:25:07,955 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222507.json
+2024-07-27 22:25:07,956 - DEBUG - ## ## Simulation ended for 10 games using strategy #Comprehensive Feedback Strategy ## ##
+2024-07-27 22:25:07,956 - DEBUG - #### #### All Simulations Have Ended #### ####
+2024-07-27 22:26:01,332 - DEBUG - #### Beginning 7 Strategy Testing ####
+2024-07-27 22:26:01,333 - DEBUG - ## ## Simulation beginning for 10 games using strategy #0 ## ##
+2024-07-27 22:26:01,333 - DEBUG - Starting game 1 with strategy Random Guess Strategy
+2024-07-27 22:26:01,334 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:26:01,334 - DEBUG - Starting game 2 with strategy Random Guess Strategy
+2024-07-27 22:26:01,334 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:26:01,334 - DEBUG - Starting game 3 with strategy Random Guess Strategy
+2024-07-27 22:26:01,334 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:26:01,334 - DEBUG - Starting game 4 with strategy Random Guess Strategy
+2024-07-27 22:26:01,334 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:26:01,334 - DEBUG - Starting game 5 with strategy Random Guess Strategy
+2024-07-27 22:26:01,334 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:26:01,334 - DEBUG - Starting game 6 with strategy Random Guess Strategy
+2024-07-27 22:26:01,335 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:26:01,335 - DEBUG - Starting game 7 with strategy Random Guess Strategy
+2024-07-27 22:26:01,335 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:26:01,335 - DEBUG - Starting game 8 with strategy Random Guess Strategy
+2024-07-27 22:26:01,335 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:26:01,335 - DEBUG - Starting game 9 with strategy Random Guess Strategy
+2024-07-27 22:26:01,335 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:26:01,335 - DEBUG - Starting game 10 with strategy Random Guess Strategy
+2024-07-27 22:26:01,335 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:26:01,337 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222601.csv
+2024-07-27 22:26:01,340 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222601.json
+2024-07-27 22:26:01,340 - DEBUG - ## ## Simulation ended for 10 games using strategy #Random Guess Strategy ## ##
+2024-07-27 22:26:01,340 - DEBUG - ## ## Simulation beginning for 10 games using strategy #1 ## ##
+2024-07-27 22:26:01,340 - DEBUG - Starting game 1 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,340 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:26:01,340 - DEBUG - Starting game 2 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 3 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 4 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 5 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 6 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 7 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 8 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,341 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:26:01,341 - DEBUG - Starting game 9 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,342 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:26:01,342 - DEBUG - Starting game 10 with strategy Feedback-Based Strategy
+2024-07-27 22:26:01,342 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:26:01,343 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222601.csv
+2024-07-27 22:26:01,352 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222601.json
+2024-07-27 22:26:01,352 - DEBUG - ## ## Simulation ended for 10 games using strategy #Feedback-Based Strategy ## ##
+2024-07-27 22:26:01,352 - DEBUG - ## ## Simulation beginning for 10 games using strategy #2 ## ##
+2024-07-27 22:26:01,352 - DEBUG - Starting game 1 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 2 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 3 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 3 ended with 9 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 4 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 5 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 6 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 7 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,353 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:26:01,353 - DEBUG - Starting game 8 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,354 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:26:01,354 - DEBUG - Starting game 9 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,354 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:26:01,354 - DEBUG - Starting game 10 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:26:01,354 - DEBUG - Game 10 ended with 3 attempts
+2024-07-27 22:26:01,354 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222601.csv
+2024-07-27 22:26:01,363 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222601.json
+2024-07-27 22:26:01,363 - DEBUG - ## ## Simulation ended for 10 games using strategy #Comprehensive Feedback Strategy ## ##
+2024-07-27 22:26:01,363 - DEBUG - ## ## Simulation beginning for 10 games using strategy #3 ## ##
+2024-07-27 22:26:01,363 - DEBUG - Starting game 1 with strategy Knuth's Algorithm
+2024-07-27 22:26:01,978 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:26:01,978 - DEBUG - Starting game 2 with strategy Knuth's Algorithm
+2024-07-27 22:26:02,226 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:26:02,226 - DEBUG - Starting game 3 with strategy Knuth's Algorithm
+2024-07-27 22:26:02,775 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:26:02,775 - DEBUG - Starting game 4 with strategy Knuth's Algorithm
+2024-07-27 22:26:03,387 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:26:03,388 - DEBUG - Starting game 5 with strategy Knuth's Algorithm
+2024-07-27 22:26:03,661 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:26:03,661 - DEBUG - Starting game 6 with strategy Knuth's Algorithm
+2024-07-27 22:26:04,314 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:26:04,314 - DEBUG - Starting game 7 with strategy Knuth's Algorithm
+2024-07-27 22:26:04,952 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:26:04,953 - DEBUG - Starting game 8 with strategy Knuth's Algorithm
+2024-07-27 22:26:05,615 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:26:05,615 - DEBUG - Starting game 9 with strategy Knuth's Algorithm
+2024-07-27 22:26:06,261 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:26:06,261 - DEBUG - Starting game 10 with strategy Knuth's Algorithm
+2024-07-27 22:26:06,912 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:26:06,913 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222601.csv
+2024-07-27 22:26:06,924 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222601.json
+2024-07-27 22:26:06,924 - DEBUG - ## ## Simulation ended for 10 games using strategy #Knuth's Algorithm ## ##
+2024-07-27 22:26:06,924 - DEBUG - ## ## Simulation beginning for 10 games using strategy #4 ## ##
+2024-07-27 22:26:06,924 - DEBUG - Starting game 1 with strategy Average Case Strategy
+2024-07-27 22:26:07,217 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:26:07,217 - DEBUG - Starting game 2 with strategy Average Case Strategy
+2024-07-27 22:26:07,870 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:26:07,870 - DEBUG - Starting game 3 with strategy Average Case Strategy
+2024-07-27 22:26:08,549 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:26:08,549 - DEBUG - Starting game 4 with strategy Average Case Strategy
+2024-07-27 22:26:09,151 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:26:09,152 - DEBUG - Starting game 5 with strategy Average Case Strategy
+2024-07-27 22:26:09,794 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:26:09,794 - DEBUG - Starting game 6 with strategy Average Case Strategy
+2024-07-27 22:26:09,883 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:26:09,883 - DEBUG - Starting game 7 with strategy Average Case Strategy
+2024-07-27 22:26:10,478 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:26:10,478 - DEBUG - Starting game 8 with strategy Average Case Strategy
+2024-07-27 22:26:10,964 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:26:10,964 - DEBUG - Starting game 9 with strategy Average Case Strategy
+2024-07-27 22:26:11,524 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:26:11,524 - DEBUG - Starting game 10 with strategy Average Case Strategy
+2024-07-27 22:26:12,103 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:26:12,103 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222601.csv
+2024-07-27 22:26:12,113 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222601.json
+2024-07-27 22:26:12,114 - DEBUG - ## ## Simulation ended for 10 games using strategy #Average Case Strategy ## ##
+2024-07-27 22:26:12,114 - DEBUG - ## ## Simulation beginning for 10 games using strategy #5 ## ##
+2024-07-27 22:26:12,114 - DEBUG - Starting game 1 with strategy Minimax Strategy
+2024-07-27 22:26:12,585 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:26:12,585 - DEBUG - Starting game 2 with strategy Minimax Strategy
+2024-07-27 22:26:12,829 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:26:12,829 - DEBUG - Starting game 3 with strategy Minimax Strategy
+2024-07-27 22:26:12,923 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:26:12,923 - DEBUG - Starting game 4 with strategy Minimax Strategy
+2024-07-27 22:26:13,533 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:26:13,533 - DEBUG - Starting game 5 with strategy Minimax Strategy
+2024-07-27 22:26:14,036 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:26:14,037 - DEBUG - Starting game 6 with strategy Minimax Strategy
+2024-07-27 22:26:14,605 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:26:14,605 - DEBUG - Starting game 7 with strategy Minimax Strategy
+2024-07-27 22:26:15,178 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:26:15,178 - DEBUG - Starting game 8 with strategy Minimax Strategy
+2024-07-27 22:26:15,780 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:26:15,780 - DEBUG - Starting game 9 with strategy Minimax Strategy
+2024-07-27 22:26:16,310 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:26:16,310 - DEBUG - Starting game 10 with strategy Minimax Strategy
+2024-07-27 22:26:16,592 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:26:16,593 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222601.csv
+2024-07-27 22:26:16,604 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222601.json
+2024-07-27 22:26:16,604 - DEBUG - ## ## Simulation ended for 10 games using strategy #Minimax Strategy ## ##
+2024-07-27 22:26:16,604 - DEBUG - ## ## Simulation beginning for 10 games using strategy #6 ## ##
+2024-07-27 22:26:16,604 - DEBUG - Starting game 1 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:40,775 - DEBUG - #### Beginning 7 Strategy Testing ####
+2024-07-27 22:28:40,776 - DEBUG - ## ## Simulation beginning for 10 games using strategy #0 ## ##
+2024-07-27 22:28:40,776 - DEBUG - Starting game 1 with strategy Random Guess Strategy
+2024-07-27 22:28:40,776 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:28:40,776 - DEBUG - Starting game 2 with strategy Random Guess Strategy
+2024-07-27 22:28:40,776 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:28:40,776 - DEBUG - Starting game 3 with strategy Random Guess Strategy
+2024-07-27 22:28:40,776 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:28:40,776 - DEBUG - Starting game 4 with strategy Random Guess Strategy
+2024-07-27 22:28:40,776 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:28:40,776 - DEBUG - Starting game 5 with strategy Random Guess Strategy
+2024-07-27 22:28:40,776 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:28:40,777 - DEBUG - Starting game 6 with strategy Random Guess Strategy
+2024-07-27 22:28:40,777 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:28:40,777 - DEBUG - Starting game 7 with strategy Random Guess Strategy
+2024-07-27 22:28:40,777 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:28:40,777 - DEBUG - Starting game 8 with strategy Random Guess Strategy
+2024-07-27 22:28:40,777 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:28:40,777 - DEBUG - Starting game 9 with strategy Random Guess Strategy
+2024-07-27 22:28:40,777 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:28:40,777 - DEBUG - Starting game 10 with strategy Random Guess Strategy
+2024-07-27 22:28:40,777 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:28:40,779 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:40,780 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:40,781 - DEBUG - ## ## Simulation ended for 10 games using strategy #Random Guess Strategy ## ##
+2024-07-27 22:28:40,781 - DEBUG - ## ## Simulation beginning for 10 games using strategy #1 ## ##
+2024-07-27 22:28:40,781 - DEBUG - Starting game 1 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 2 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 3 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 4 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 5 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 6 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 7 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 8 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 9 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,781 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:28:40,781 - DEBUG - Starting game 10 with strategy Feedback-Based Strategy
+2024-07-27 22:28:40,782 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:28:40,782 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:40,791 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:40,791 - DEBUG - ## ## Simulation ended for 10 games using strategy #Feedback-Based Strategy ## ##
+2024-07-27 22:28:40,791 - DEBUG - ## ## Simulation beginning for 10 games using strategy #2 ## ##
+2024-07-27 22:28:40,791 - DEBUG - Starting game 1 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,791 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:28:40,791 - DEBUG - Starting game 2 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,791 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:28:40,791 - DEBUG - Starting game 3 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,791 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 4 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 5 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 6 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 6 ended with 5 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 7 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 8 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 9 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:28:40,792 - DEBUG - Starting game 10 with strategy Comprehensive Feedback Strategy
+2024-07-27 22:28:40,792 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:28:40,793 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:40,805 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:40,805 - DEBUG - ## ## Simulation ended for 10 games using strategy #Comprehensive Feedback Strategy ## ##
+2024-07-27 22:28:40,805 - DEBUG - ## ## Simulation beginning for 10 games using strategy #3 ## ##
+2024-07-27 22:28:40,805 - DEBUG - Starting game 1 with strategy Knuth's Algorithm
+2024-07-27 22:28:41,131 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:28:41,131 - DEBUG - Starting game 2 with strategy Knuth's Algorithm
+2024-07-27 22:28:41,396 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:28:41,396 - DEBUG - Starting game 3 with strategy Knuth's Algorithm
+2024-07-27 22:28:41,874 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:28:41,874 - DEBUG - Starting game 4 with strategy Knuth's Algorithm
+2024-07-27 22:28:42,590 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:28:42,590 - DEBUG - Starting game 5 with strategy Knuth's Algorithm
+2024-07-27 22:28:43,171 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:28:43,171 - DEBUG - Starting game 6 with strategy Knuth's Algorithm
+2024-07-27 22:28:43,787 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:28:43,787 - DEBUG - Starting game 7 with strategy Knuth's Algorithm
+2024-07-27 22:28:44,544 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:28:44,690 - DEBUG - Starting game 8 with strategy Knuth's Algorithm
+2024-07-27 22:28:45,360 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:28:45,360 - DEBUG - Starting game 9 with strategy Knuth's Algorithm
+2024-07-27 22:28:45,988 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:28:45,988 - DEBUG - Starting game 10 with strategy Knuth's Algorithm
+2024-07-27 22:28:46,601 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:28:46,601 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:46,610 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:46,610 - DEBUG - ## ## Simulation ended for 10 games using strategy #Knuth's Algorithm ## ##
+2024-07-27 22:28:46,611 - DEBUG - ## ## Simulation beginning for 10 games using strategy #4 ## ##
+2024-07-27 22:28:46,611 - DEBUG - Starting game 1 with strategy Average Case Strategy
+2024-07-27 22:28:46,708 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:28:46,708 - DEBUG - Starting game 2 with strategy Average Case Strategy
+2024-07-27 22:28:47,293 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:28:47,293 - DEBUG - Starting game 3 with strategy Average Case Strategy
+2024-07-27 22:28:47,392 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:28:47,392 - DEBUG - Starting game 4 with strategy Average Case Strategy
+2024-07-27 22:28:48,017 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:28:48,017 - DEBUG - Starting game 5 with strategy Average Case Strategy
+2024-07-27 22:28:48,696 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:28:48,697 - DEBUG - Starting game 6 with strategy Average Case Strategy
+2024-07-27 22:28:49,369 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:28:49,369 - DEBUG - Starting game 7 with strategy Average Case Strategy
+2024-07-27 22:28:49,685 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:28:49,685 - DEBUG - Starting game 8 with strategy Average Case Strategy
+2024-07-27 22:28:49,955 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:28:49,956 - DEBUG - Starting game 9 with strategy Average Case Strategy
+2024-07-27 22:28:50,226 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:28:50,226 - DEBUG - Starting game 10 with strategy Average Case Strategy
+2024-07-27 22:28:50,790 - DEBUG - Game 10 ended with 3 attempts
+2024-07-27 22:28:50,790 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:50,800 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:50,800 - DEBUG - ## ## Simulation ended for 10 games using strategy #Average Case Strategy ## ##
+2024-07-27 22:28:50,800 - DEBUG - ## ## Simulation beginning for 10 games using strategy #5 ## ##
+2024-07-27 22:28:50,801 - DEBUG - Starting game 1 with strategy Minimax Strategy
+2024-07-27 22:28:51,087 - DEBUG - Game 1 ended with 10 attempts
+2024-07-27 22:28:51,087 - DEBUG - Starting game 2 with strategy Minimax Strategy
+2024-07-27 22:28:51,682 - DEBUG - Game 2 ended with 10 attempts
+2024-07-27 22:28:51,682 - DEBUG - Starting game 3 with strategy Minimax Strategy
+2024-07-27 22:28:52,258 - DEBUG - Game 3 ended with 10 attempts
+2024-07-27 22:28:52,258 - DEBUG - Starting game 4 with strategy Minimax Strategy
+2024-07-27 22:28:52,811 - DEBUG - Game 4 ended with 10 attempts
+2024-07-27 22:28:52,811 - DEBUG - Starting game 5 with strategy Minimax Strategy
+2024-07-27 22:28:53,478 - DEBUG - Game 5 ended with 10 attempts
+2024-07-27 22:28:53,478 - DEBUG - Starting game 6 with strategy Minimax Strategy
+2024-07-27 22:28:54,124 - DEBUG - Game 6 ended with 10 attempts
+2024-07-27 22:28:54,124 - DEBUG - Starting game 7 with strategy Minimax Strategy
+2024-07-27 22:28:54,787 - DEBUG - Game 7 ended with 10 attempts
+2024-07-27 22:28:54,787 - DEBUG - Starting game 8 with strategy Minimax Strategy
+2024-07-27 22:28:55,413 - DEBUG - Game 8 ended with 10 attempts
+2024-07-27 22:28:55,413 - DEBUG - Starting game 9 with strategy Minimax Strategy
+2024-07-27 22:28:55,487 - DEBUG - Game 9 ended with 10 attempts
+2024-07-27 22:28:55,487 - DEBUG - Starting game 10 with strategy Minimax Strategy
+2024-07-27 22:28:56,133 - DEBUG - Game 10 ended with 10 attempts
+2024-07-27 22:28:56,134 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:56,145 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:56,145 - DEBUG - ## ## Simulation ended for 10 games using strategy #Minimax Strategy ## ##
+2024-07-27 22:28:56,145 - DEBUG - ## ## Simulation beginning for 10 games using strategy #6 ## ##
+2024-07-27 22:28:56,145 - DEBUG - Starting game 1 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:56,294 - DEBUG - Game 1 ended with 4 attempts
+2024-07-27 22:28:56,294 - DEBUG - Starting game 2 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:56,534 - DEBUG - Game 2 ended with 5 attempts
+2024-07-27 22:28:56,534 - DEBUG - Starting game 3 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:56,692 - DEBUG - Game 3 ended with 4 attempts
+2024-07-27 22:28:56,692 - DEBUG - Starting game 4 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:56,845 - DEBUG - Game 4 ended with 4 attempts
+2024-07-27 22:28:56,845 - DEBUG - Starting game 5 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:57,087 - DEBUG - Game 5 ended with 5 attempts
+2024-07-27 22:28:57,087 - DEBUG - Starting game 6 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:57,326 - DEBUG - Game 6 ended with 5 attempts
+2024-07-27 22:28:57,326 - DEBUG - Starting game 7 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:57,671 - DEBUG - Game 7 ended with 6 attempts
+2024-07-27 22:28:57,671 - DEBUG - Starting game 8 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:57,915 - DEBUG - Game 8 ended with 5 attempts
+2024-07-27 22:28:57,915 - DEBUG - Starting game 9 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:58,097 - DEBUG - Game 9 ended with 4 attempts
+2024-07-27 22:28:58,097 - DEBUG - Starting game 10 with strategy Genetic Algorithm Strategy
+2024-07-27 22:28:58,262 - DEBUG - Game 10 ended with 4 attempts
+2024-07-27 22:28:58,262 - DEBUG - Results appended to ./results/mastermind_ai_results_20240727-222840.csv
+2024-07-27 22:28:58,276 - DEBUG - Results saved to ./results/mastermind_ai_results_20240727-222840.json
+2024-07-27 22:28:58,276 - DEBUG - ## ## Simulation ended for 10 games using strategy #Genetic Algorithm Strategy ## ##
+2024-07-27 22:28:58,276 - DEBUG - #### #### All Simulations Have Ended #### ####
