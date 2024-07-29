@@ -9,7 +9,7 @@ import itertools
 # Configuration Section
 PLAY_TYPE = 1  # 0 for player control, 1 for AI control
 NUM_GAMES = 1000  # Set the number of games to simulate
-STRATEGIES = [0, 1, 2, 3, 4, 5, 6]  # An array of numbers representing the strategies to simulate this run
+STRATEGIES = [7]  # An array of numbers representing the strategies to simulate this run
 LOG_FILE = './logs/mastermind_game_' + datetime.datetime.now().strftime("%Y%m%d-%H%M%S") + '.log'
 CSV_RESULTS_FILE = './results/mastermind_ai_results_' + datetime.datetime.now().strftime("%Y%m%d-%H%M%S") + '.csv'
 JSON_RESULTS_FILE = './results/mastermind_ai_results_' + datetime.datetime.now().strftime("%Y%m%d-%H%M%S") + '.json'

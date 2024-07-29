@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from mastermind import define_strategy  # Import the define_strategy function
 
 # Select Strategies to compare
-strategies = [0, 1, 2, 3, 4, 5]  # An array of numbers representing the strategies to analyze this run
+strategies = [0, 1, 2, 3, 4, 5, 6, 7]  # An array of numbers representing the strategies to analyze this run
 
 def gather_csv_files(directory):
     """Gather all CSV files matching the pattern in the specified directory."""
